@@ -1,0 +1,26 @@
+title: There is no MFX... It's fraud.
+email: metafxcapital@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ That was fraud Company
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://cyobb.com/mfxcoin" # the base hostname & protocol for your site
+twitter_username: 
+
+markdown: kramdown
+
+name: There is no MFX... It's fraud.
+
+date: 2018-05-07 09:16:53 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://cyobb.com/mfxcoin/
+google_analytics: UA-31XXXXXX-X
+gems: [jekyll-paginate]
+cover: https://i.imgur.com/Mju.jpg
+author_image: https://i.ytimg.com/vi/ua0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDrWa1235wgAzzhmVimA0mNWza0EA
+# Details for the RSS feed generator
+author:        mfxcoin
